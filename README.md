@@ -13,7 +13,7 @@ Provides an easy way to conditionally show and hide fields in your Nova resource
 You can install the package via composer:
 
 ```
-composer require digital-creative/conditional-container
+composer require kayacekovic/conditional-container
 ```
 
 ## Usage
